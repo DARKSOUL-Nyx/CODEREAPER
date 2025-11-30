@@ -5,3 +5,5 @@ pytest
 colorama
 googlesearch-python
 gitpython
+streamlit
+diff-match-patch
