@@ -1,0 +1,7 @@
+google-generativeai
+python-dotenv
+radon
+pytest
+colorama
+googlesearch-python
+gitpython

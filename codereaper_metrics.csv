@@ -1,0 +1,66 @@
+2025-11-30 00:50:43,920 - Refactor Complete. Complexity Delta: [
+  {
+    "name": "do_math_stuff",
+    "complexity": 8,
+    "grade": "ACCEPTABLE"
+  }
+] -> [
+  {
+    "name": "add",
+    "complexity": 1,
+    "grade": "ACCEPTABLE"
+  },
+  {
+    "name": "subtract",
+    "complexity": 1,
+    "grade": "ACCEPTABLE"
+  },
+  {
+    "name": "multiply",
+    "complexity": 3,
+    "grade": "ACCEPTABLE"
+  },
+  {
+    "name": "divide",
+    "complexity": 2,
+    "grade": "ACCEPTABLE"
+  },
+  {
+    "name": "do_math_stuff",
+    "complexity": 2,
+    "grade": "ACCEPTABLE"
+  }
+]
+2025-11-30 01:19:35,155 - Refactor Complete. Complexity Delta: [
+  {
+    "name": "do_math_stuff",
+    "complexity": 8,
+    "grade": "ACCEPTABLE"
+  }
+] -> [
+  {
+    "name": "add",
+    "complexity": 1,
+    "grade": "ACCEPTABLE"
+  },
+  {
+    "name": "subtract",
+    "complexity": 1,
+    "grade": "ACCEPTABLE"
+  },
+  {
+    "name": "multiply",
+    "complexity": 3,
+    "grade": "ACCEPTABLE"
+  },
+  {
+    "name": "divide",
+    "complexity": 2,
+    "grade": "ACCEPTABLE"
+  },
+  {
+    "name": "do_math_stuff",
+    "complexity": 5,
+    "grade": "ACCEPTABLE"
+  }
+]
